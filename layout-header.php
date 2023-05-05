@@ -5,6 +5,7 @@
         <a href="index.php" class="logo d-flex align-items-center">
             <!-- Uncomment the line below if you also wish to use an image logo -->
             <img src="assets/images/SLT-logo.png" alt="">
+
             <!-- <h1>SkillzLikeThis<span>.</span></h1> -->
         </a>
 

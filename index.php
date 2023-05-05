@@ -718,6 +718,50 @@
     </section><!-- End Servie Cards Section -->
 
 
+    <section id="clients" class="section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Our Customers</h2>
+          <p>Checkout the list of our clients below.</p>
+        </div>
+
+        <div class="row no-gutters clients-wrap clearfix wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/images/customers/hal.webp" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/images/customers/p&o.webp" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/images/customers/shipserv.webp" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/images/customers/westerstrand.webp" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <!-- <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="client-logo">
+              <img src="assets/images/customers/hal.webp" class="img-fluid" alt="">
+            </div>
+          </div> -->
+
+        </div>
+      </div>
+    </section>
+
 
   </main>
   <!-- End #main -->
