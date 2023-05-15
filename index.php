@@ -13,10 +13,10 @@
     <div class="info d-flex align-items-center">
       <div class="container">
         <div class="row justify-content-center">
-          <div class="col-lg-6 text-center">
-            <h2 data-aos="fade-down">Welcome to <span>SkillzLikeThis</span></h2>
-            <p data-aos="fade-up">We are a leading cruise ship contractor specializing in maritime communication, PABX, and cabling services. We understand the unique needs of the cruise ship industry and are committed to providing top-notch services to our clients.</p>
-            <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>
+          <div class="col-lg-8 text-center">
+            <h2 data-aos="fade-down"><span>SkillzLikeThis</span><br>Maritime Communication</h2>
+            <p data-aos="fade-up">We are a maritime communication focused company. We provide communication products and services, design and integrations of communication solutions including CCTV cameras, audio and video, PBX systems, hospitality suites, copper and fiber cable installations.</p>
+            <a data-aos="fade-up" data-aos-delay="200" href="products-and-services.php" class="btn-get-started">Get Started</a>
           </div>
         </div>
       </div>
@@ -500,11 +500,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-cabling">
               <div class="portfolio-content h-100">
-                <img src="assets/images/projects/cabling-1.jpg" class="img-fluid" alt="">
+                <img src="assets/images/projects/cabling-4.webp" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Cabling 1</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/images/projects/cabling-1.jpg" title="Cabling 1" data-gallery="portfolio-gallery-cabling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="assets/images/projects/cabling-4.webp" title="Cabling 1" data-gallery="portfolio-gallery-cabling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
@@ -548,11 +548,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-cabling">
               <div class="portfolio-content h-100">
-                <img src="assets/images/projects/cabling-2.jpg" class="img-fluid" alt="">
+                <img src="assets/images/projects/cabling-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Cabling 2</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="assets/images/projects/cabling-2.jpg" title="Cabling 2" data-gallery="portfolio-gallery-cabling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="assets/images/projects/cabling-1.jpg" title="Cabling 2" data-gallery="portfolio-gallery-cabling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
