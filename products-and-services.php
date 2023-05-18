@@ -11,7 +11,7 @@
     <main id="main">
 
         <!-- ======= Breadcrumbs ======= -->
-        <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/images/carousel/background-1.webp');">
+        <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/images/carousel/background-2.jpg');">
             <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
                 <h2>Products and Services</h2>
@@ -61,7 +61,7 @@
                     <div class="col-lg-6 img-bg aos-init aos-animate" style="background-image: url(assets/images/products/products-2.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
 
                     <div class="col-lg-5 d-flex flex-column justify-content-center">
-                        <h3>Communication System</h3>
+                        <h3>COMMUNICATION SYSTEM</h3>
                         <p>Sales, Services and Support.</p>
 
                         <ul class="list-unstyled">

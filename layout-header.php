@@ -16,7 +16,7 @@
                 <li><a href="index.php" <?php if (basename($_SERVER['PHP_SELF']) == "index.php") echo 'class="active"'; ?>>Home</a></li>
                 <!-- <li><a href="about.html" <?php if (basename($_SERVER['PHP_SELF']) == "about.html") echo 'class="active"'; ?>>About</a></li> -->
                 <li><a href="products-and-services.php" <?php if (basename($_SERVER['PHP_SELF']) == "products-and-services.php") echo 'class="active"'; ?>>Products & Services</a></li>
-                <li><a href="contact.html" <?php if (basename($_SERVER['PHP_SELF']) == "contact.html") echo 'class="active"'; ?>>Contact</a></li>
+                <li><a href="contact.php" <?php if (basename($_SERVER['PHP_SELF']) == "contact.php") echo 'class="active"'; ?>>Contact</a></li>
             </ul>
         </nav><!-- .navbar -->
 

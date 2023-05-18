@@ -26,9 +26,9 @@
                 <div class="col-lg-2 col-md-3 footer-links">
                     <h4>Useful Links</h4>
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About us</a></li>
-                        <li><a href="#">Services</a></li>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="products-and-services.html">Products and Services</a></li>
+                        <li><a href="contact.html">Contact</a></li>
                         <li><a href="#">Terms of service</a></li>
                         <li><a href="#">Privacy policy</a></li>
                     </ul>
@@ -48,20 +48,19 @@
                 <div class="col-lg-2 col-md-3 footer-links">
                     <h4>Our Partners</h4>
                     <ul>
-                        <li><a href="#">Carnival Australia</a></li>
-                        <li><a href="#">Mitel</a></li>
-                        <li><a href="#">Diavox</a></li>
+                        <li><a href="https://www.carnival.com.au/">Carnival Australia</a></li>
+                        <li><a href="https://www.mitel.com/">Mitel</a></li>
+                        <li><a href="https://www.diavox.net/">Diavox</a></li>
                     </ul>
                 </div><!-- End footer links column-->
 
                 <div class="col-lg-2 col-md-3 footer-links">
                     <h4>Our Customers</h4>
                     <ul>
-                        <li><a href="#">Ipsam</a></li>
-                        <li><a href="#">Laudantium dolorum</a></li>
-                        <li><a href="#">Dinera</a></li>
-                        <li><a href="#">Trodelas</a></li>
-                        <li><a href="#">Flexo</a></li>
+                        <li><a href="#">Holland America</a></li>
+                        <li><a href="#">P&O Cruises</a></li>
+                        <li><a href="#">Shipserv</a></li>
+                        <li><a href="#">Wester Strand</a></li>
                     </ul>
                 </div><!-- End footer links column-->
 

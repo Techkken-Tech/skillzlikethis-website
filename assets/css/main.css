@@ -183,12 +183,12 @@ section {
 
 .scroll-top i {
   font-size: 24px;
-  color: var(--color-secondary);
+  color: #fff;
   line-height: 0;
 }
 
 .scroll-top:hover {
-  background: #ffc732;
+  background: #ff0000;
   color: #fff;
 }
 
@@ -668,7 +668,7 @@ section {
 }
 
 .get-started .php-email-form button[type=submit]:hover {
-  background: rgba(254, 185, 0, 0.8);
+  background: #ff0000;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1766,7 +1766,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: rgba(254, 185, 0, 0.8);
+  background: #ff0000;
 }
 
 @keyframes animate-loading {
@@ -2580,7 +2580,7 @@ section {
 --------------------------------------------------------------*/
 .footer {
   color: #fff;
-  background: url("../img/footer-bg.jpg") top center no-repeat;
+  background: url("../../assets/images/carousel/background-1.webp") top center no-repeat;
   background-size: cover;
   font-size: 14px;
   padding: 80px 0 60px 0;
